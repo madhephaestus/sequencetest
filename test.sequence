@@ -4,7 +4,17 @@
 		"file":"init.groovy",
 		"msDuration":"10000",
 		"devices":["JackSkellington ParallelGroup:delta 0","JackSkellingtonLeftHand ParallelGroup:delta 0","JackSkellingtonRightHand ParallelGroup:delta 0"]
+	},
+	"JackSkellington ParallelGroup:delta 0":{
+		"0":{},
+		"5000":{}
+	},
+	"JackSkellingtonLeftHand ParallelGroup:delta 0":{
+		"0":{}
+	},
+	"JackSkellingtonRightHand ParallelGroup:delta 0":{
+		"0":{},
+		"5000":{}
 	}
-
 	
 }
