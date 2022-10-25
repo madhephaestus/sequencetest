@@ -28,5 +28,7 @@ MobileBase right=DeviceManager.getSpecificDevice( "JackSkellingtonRightHand",{
 			)
 	return m
 })
-
+BowlerStudioController.setCsg(MobileBaseCadManager.get(base).getAllCad())
+BowlerStudioController.addObject(MobileBaseCadManager.get(left).getAllCad(), null)
+BowlerStudioController.addObject(MobileBaseCadManager.get(right).getAllCad(), null)
 println "Initialize!"
