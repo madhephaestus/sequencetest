@@ -6,15 +6,110 @@
 		"devices":["JackSkellington ParallelGroup:delta 0","JackSkellingtonLeftHand ParallelGroup:delta 0","JackSkellingtonRightHand ParallelGroup:delta 0"]
 	},
 	"JackSkellington ParallelGroup:delta 0":{
-		"0":{},
-		"5000":{}
+		"0":{
+  "pose": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 125,
+    "rotation": {
+      "storage": {
+        "q0": 1.0,
+        "q1": 0.0,
+        "q2": 0.0,
+        "q3": 0.0
+      }
+    }
+  },
+  "type": "LINEAR",
+  "TRAPEZOIDAL_time": 0.0,
+  "BEZIER_P0": 0.0,
+  "BEZIER_P1": 0.0,
+  "msDuration": 300
+},
+		"5000":{
+  "pose": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 125,
+    "rotation": {
+      "storage": {
+        "q0": 1.0,
+        "q1": 0.0,
+        "q2": 0.0,
+        "q3": 0.0
+      }
+    }
+  },
+  "type": "LINEAR",
+  "TRAPEZOIDAL_time": 0.0,
+  "BEZIER_P0": 0.0,
+  "BEZIER_P1": 0.0,
+  "msDuration": 1
+}
 	},
 	"JackSkellingtonLeftHand ParallelGroup:delta 0":{
-		"0":{}
+		"0":{
+  "pose": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 125,
+    "rotation": {
+      "storage": {
+        "q0": 1.0,
+        "q1": 0.0,
+        "q2": 0.0,
+        "q3": 0.0
+      }
+    }
+  },
+  "type": "LINEAR",
+  "TRAPEZOIDAL_time": 0.0,
+  "BEZIER_P0": 0.0,
+  "BEZIER_P1": 0.0,
+  "msDuration": 1
+}
 	},
 	"JackSkellingtonRightHand ParallelGroup:delta 0":{
-		"0":{},
-		"5000":{}
+		"0":{
+  "pose": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 125,
+    "rotation": {
+      "storage": {
+        "q0": 1.0,
+        "q1": 0.0,
+        "q2": 0.0,
+        "q3": 0.0
+      }
+    }
+  },
+  "type": "LINEAR",
+  "TRAPEZOIDAL_time": 0.0,
+  "BEZIER_P0": 0.0,
+  "BEZIER_P1": 0.0,
+  "msDuration": 1
+},
+		"5000":{
+  "pose": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "rotation": {
+      "storage": {
+        "q0": 1.0,
+        "q1": 0.0,
+        "q2": 0.0,
+        "q3": 0.0
+      }
+    }
+  },
+  "type": "LINEAR",
+  "TRAPEZOIDAL_time": 0.0,
+  "BEZIER_P0": 0.0,
+  "BEZIER_P1": 0.0,
+  "msDuration": 1
+}
 	}
 	
 }
