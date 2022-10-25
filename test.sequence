@@ -2,7 +2,7 @@
 	"initialize":{
 		"url":"https://github.com/madhephaestus/sequencetest.git",
 		"file":"init.groovy",
-		"msDuration":"10000",
+		"msDuration":"1000",
 		"devices":["JackSkellington ParallelGroup:delta 0","JackSkellingtonLeftHand ParallelGroup:delta 0","JackSkellingtonRightHand ParallelGroup:delta 0"]
 	},
 	"JackSkellington ParallelGroup:delta 0":{
@@ -24,9 +24,9 @@
   "TRAPEZOIDAL_time": 0.0,
   "BEZIER_P0": 0.0,
   "BEZIER_P1": 0.0,
-  "msDuration": 3000
+  "msDuration": 300
 },
-		"5000":{
+		"301":{
   "pose": {
     "x": 0.0,
     "y": -20,
@@ -44,7 +44,7 @@
   "TRAPEZOIDAL_time": 0.0,
   "BEZIER_P0": 0.0,
   "BEZIER_P1": 0.0,
-  "msDuration": 1000
+  "msDuration": 300
 }
 	},
 	"JackSkellingtonLeftHand ParallelGroup:delta 0":{
