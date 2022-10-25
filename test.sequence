@@ -20,7 +20,7 @@
       }
     }
   },
-  "type": "LINEAR",
+  "type": "SINUSOIDAL",
   "TRAPEZOIDAL_time": 0.0,
   "BEZIER_P0": 0.0,
   "BEZIER_P1": 0.0,
@@ -40,7 +40,7 @@
       }
     }
   },
-  "type": "LINEAR",
+  "type": "SINUSOIDAL",
   "TRAPEZOIDAL_time": 0.0,
   "BEZIER_P0": 0.0,
   "BEZIER_P1": 0.0,
