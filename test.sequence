@@ -9,7 +9,7 @@
 		"0":{
   "pose": {
     "x": 0.0,
-    "y": 0.0,
+    "y": 20,
     "z": 125,
     "rotation": {
       "storage": {
@@ -24,12 +24,12 @@
   "TRAPEZOIDAL_time": 0.0,
   "BEZIER_P0": 0.0,
   "BEZIER_P1": 0.0,
-  "msDuration": 300
+  "msDuration": 3000
 },
 		"5000":{
   "pose": {
     "x": 0.0,
-    "y": 0.0,
+    "y": -20,
     "z": 125,
     "rotation": {
       "storage": {
@@ -44,7 +44,7 @@
   "TRAPEZOIDAL_time": 0.0,
   "BEZIER_P0": 0.0,
   "BEZIER_P1": 0.0,
-  "msDuration": 1
+  "msDuration": 1000
 }
 	},
 	"JackSkellingtonLeftHand ParallelGroup:delta 0":{
