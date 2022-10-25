@@ -1,5 +1,6 @@
 {
 	"initialize":{
-		
+		"url":"https://github.com/madhephaestus/sequencetest.git",
+		"file":"init.groovy"
 	}
 }
