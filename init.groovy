@@ -32,5 +32,7 @@ try{
 BowlerStudioController.setCsg(MobileBaseCadManager.get(base).getAllCad())
 BowlerStudioController.addObject(MobileBaseCadManager.get(left).getAllCad(), null)
 BowlerStudioController.addObject(MobileBaseCadManager.get(right).getAllCad(), null)
+
+
 }catch(Throwable t){}
 println "Initialize!"

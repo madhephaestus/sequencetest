@@ -3,6 +3,8 @@
 		"url":"https://github.com/madhephaestus/sequencetest.git",
 		"file":"init.groovy",
 		"msDuration":"1000",
+		"wavURL":"https://github.com/Halloween2022RodPuppet/RodPuppetKinematics.git",
+		"wavFile":"song.wav",
 		"devices":["JackSkellington ParallelGroup:delta 0","JackSkellingtonLeftHand ParallelGroup:delta 0","JackSkellingtonRightHand ParallelGroup:delta 0"]
 	},
 	"JackSkellington ParallelGroup:delta 0":{
