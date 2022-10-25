@@ -1,6 +1,10 @@
 {
 	"initialize":{
 		"url":"https://github.com/madhephaestus/sequencetest.git",
-		"file":"init.groovy"
+		"file":"init.groovy",
+		"msDuration":"10000",
+		"devices":["JackSkellington ParallelGroup:delta 0","JackSkellingtonLeftHand ParallelGroup:delta 0","JackSkellingtonRightHand ParallelGroup:delta 0"]
 	}
+
+	
 }
